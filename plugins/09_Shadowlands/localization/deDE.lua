@@ -72,7 +72,7 @@ L["swollen_anima_seed"] = "Ein großer Samen der in einem Baumstamm liegt."
 L["playful_vulpin_note"] = [[
 Finde und verwende fünf mal die richtigen Emotes für {npc:171206}, um das Haustier zu erhalten.
 
-• beginnt neugierig zu graben = |cFFFF8C00/neugierig|r
+• beginnt neugierig zu graben = |cFFFF8C00/graben|r
 • hoppelt umher und kann nicht stillsitzen = |cFFFF8C00/sitzen|r
 • singt ganz alleine = |cFFFF8C00/singen|r
 • tanzt vor Freude = |cFFFF8C00/tanzen|r

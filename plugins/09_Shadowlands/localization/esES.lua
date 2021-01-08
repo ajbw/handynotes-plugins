@@ -73,7 +73,7 @@ L["swollen_anima_seed"] = "Una gran semilla que reposa dentro del tronco de un �
 L["playful_vulpin_note"] = [[
 Encuentra y usa la emoción correcta en el {npc:171206} cinco veces para conseguir la mascota.
 
-• comienza a escarbar con curiosidad = |cFFFF8C00/curiosidad|r
+• comienza a escarbar con curiosidad = |cFFFF8C00/escarbar|r
 • corretea alrededor incapaz de quedarse quieto = |cFFFF8C00/sentarse|r
 • canta solo = |cFFFF8C00/cantar|r
 • baila de alegría = |cFFFF8C00/bailar|r

@@ -73,7 +73,7 @@ L["swollen_anima_seed"] = "Une grande graine se trouvant à l'intérieur d'un tr
 L["playful_vulpin_note"] = [[
 Trouvez et utilisez l'émote correcte sur le {npc:171206} cinq fois pour obtenir la mascotte.
 
-• commence à creuser curieusement = |cFFFF8C00/curieux|r
+• commence à creuser curieusement = |cFFFF8C00/creuser|r
 • erre sans pouvoir rester assis = |cFFFF8C00/assis|r
 • chante tout seul = |cFFFF8C00/chanter|r
 • danse avec joie = |cFFFF8C00/dancer|r

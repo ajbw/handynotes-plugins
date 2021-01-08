@@ -71,7 +71,7 @@ L["swollen_anima_seed"] = "在树干里面的一颗大种子。"
 L["playful_vulpin_note"] = [[
 在 {npc:171206} 找到并使用正确的表情五次后获得宠物。
 
-· 开始好奇的挖掘 = |cFFFF8C00/curious（/好奇）|r
+· 开始好奇的挖掘 = |cFFFF8C00/dig（/挖掘）|r
 · 仍然徘徊在无法坐下的地方 = |cFFFF8C00/sit（/坐下）|r
 · 独自一人唱歌 = |cFFFF8C00/sing（/唱歌）|r
 · 欢乐地跳舞 = |cFFFF8C00/dance（/跳舞）|r

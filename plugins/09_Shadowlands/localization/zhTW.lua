@@ -71,7 +71,7 @@ L["swollen_anima_seed"] = "在樹幹裡面的一顆大種子"
 L["playful_vulpin_note"] = [[
 在 {npc:171206} 找到並使用正確的表情五次後獲得寵物。
 
-• 開始好奇地挖地 = |cFFFF8C00/curious（/好奇）|r
+• 開始好奇地挖地 = |cFFFF8C00/dig（/挖掘）|r
 • 四處亂走，就是靜不下來 = |cFFFF8C00/sit（/坐下）|r
 • 獨自歌唱 = |cFFFF8C00/sing（/唱歌）|r
 • 帶著歡笑舞動 = |cFFFF8C00/dance（/跳舞）|r

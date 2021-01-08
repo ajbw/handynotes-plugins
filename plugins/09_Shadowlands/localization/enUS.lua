@@ -71,7 +71,7 @@ L["swollen_anima_seed"] = "A large seed sitting inside a tree trunk."
 L["playful_vulpin_note"] = [[
 Find and use the correct emote on the {npc:171206} five times to obtain the pet.
 
-• begins to dig curiously = |cFFFF8C00/curious|r
+• begins to dig curiously = |cFFFF8C00/dig|r
 • wanders around unable to sit still = |cFFFF8C00/sit|r
 • sings all alone = |cFFFF8C00/sing|r
 • dances with joy = |cFFFF8C00/dance|r
